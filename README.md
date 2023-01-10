@@ -58,3 +58,27 @@ wget --no-check-certificate --no-cache --no-cookies -q -O task4.sh https://raw.g
 
 **Masukkan username github kalian:** Github kullanıcı adınızı yazın
 
+Daha sonra sonra github'dan bir bildirim olacak:
+
+"? What account do you want to log into?" (Hangi hesaba giriş yapmak istiyorsunuz?")
+
+• GitHub.com seçip, enter yapın 
+
+• HTTPS seçip, enter yapın.
+
+• Y/N sorusu çıkacak, Y yazıp enter yapın.
+
+• Paste an authentication token  seçip enter yapın.
+
+• İlk adımda oluşturduğunuz Github Access Tokeni yapıştırın ve enter yapın.
+
+4. Çıktı: Creating pull request for aslanbayramov:task4 into task4 in inery-blockchain/inery-testnet-faucet-tasks
+
+https://github.com/inery-blockchain/inery-testnet-faucet-tasks/pull/559
+
+TASK 4 DONE! Check URL Di atas buat memastikan pull request kalian sudah di git inery.
+
+Böyle bir çıktı aldıysanız tamamdır. 
+
+
+
